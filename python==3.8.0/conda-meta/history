@@ -1,0 +1,3 @@
+==> 2024-01-15 00:10:52 <==
+# cmd: /usr/local/conda/bin/conda create -p python==3.8.0 -y
+# conda version: 22.9.0
