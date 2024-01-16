@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 🐸Coqui.ai News
 - 📣 ⓍTTSv2 is here with 16 languages and better performance across the board.
@@ -405,3 +406,6 @@ $ tts --out_path output/path/speech.wav --model_name "<language>/<dataset>/<mode
     |- vocoder/         (Vocoder models.)
         |- (same)
 ```
+=======
+# TTS
+>>>>>>> origin/main
